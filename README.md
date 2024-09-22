@@ -2,14 +2,18 @@ DISTRIBUTED SYSTEMS AND APPLICATIONS ASSIGNMENT 01 2024
 
 Course Code: DSA612S
 
-STUDENT NAMES : THOMAS ROBERT 220108129,JONAS TOBIAS 21601730, HAMUKOTO V 220104697,PANDULENI PAULUS 218062885, MWAETAKO STEFANUS, SHONGOLO JAKULA FG, 
+STUDENT NAMES : 
+
+THOMAS ROBERT 220108129,JONAS TOBIAS 21601730, HAMUKOTO V 220104697,PANDULENI PAULUS 218062885, MWAETAKO STEFANUS, SHONGOLO JAKULA FG, 
 
 This assignment covers two tasks:
+
 1.	Programme Management System using RESTful APIs.
 2.	Online Shopping System using gRPC.
 Both tasks require server and client-side implementation using the Ballerina language.
 
 QUESTION 1 
+
 Programme Management System (RESTful API)
 Create a RESTful API to manage programme workflows at the Programme Development Unit. Each programme contains multiple courses and has attributes such as:
 •	Programme Code (unique identifier)
@@ -26,6 +30,7 @@ API Functionalities:
 
 
 QUESTION 2
+
 Online Shopping System (gRPC)
 Develop a gRPC-based system for customers and admins. Key operations include:
 1.	add_product: Admin adds a product (name, description, price, SKU, etc.).

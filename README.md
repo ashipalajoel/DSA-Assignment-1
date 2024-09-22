@@ -4,7 +4,7 @@ Course Code: DSA612S
 
 STUDENT NAMES : 
 
-THOMAS ROBERT 220108129,JONAS TOBIAS 21601730, HAMUKOTO V 220104697,PANDULENI PAULUS 218062885, MWAETAKO STEFANUS, SHONGOLO JAKULA FG, 
+THOMAS ROBERT 220108129,JONAS TOBIAS 21601730, HAMUKOTO V 220104697,PANDULENI PAULUS 218062885, MWAETAKO STEFANUS, SHONGOLO JAKULA FG, ASHIPALA JOEL 215070054
 
 This assignment covers two tasks:
 
@@ -12,9 +12,11 @@ This assignment covers two tasks:
 2.	Online Shopping System using gRPC.
 Both tasks require server and client-side implementation using the Ballerina language.
 
+
 QUESTION 1 
 
 Programme Management System (RESTful API)
+
 Create a RESTful API to manage programme workflows at the Programme Development Unit. Each programme contains multiple courses and has attributes such as:
 •	Programme Code (unique identifier)
 •	NQF Level, Faculty, Department, Title, Registration Date
@@ -29,9 +31,11 @@ API Functionalities:
 7.	List programmes by faculty.
 
 
+
 QUESTION 2
 
 Online Shopping System (gRPC)
+
 Develop a gRPC-based system for customers and admins. Key operations include:
 1.	add_product: Admin adds a product (name, description, price, SKU, etc.).
 2.	create_users: Stream multiple users to the server.
